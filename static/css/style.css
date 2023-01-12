@@ -1,0 +1,6 @@
+html, body{
+    display: inline;
+    justify-content: center;
+    position: absolute;
+    background-color: greenyellow;
+}
