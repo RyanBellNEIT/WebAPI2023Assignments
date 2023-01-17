@@ -1,6 +1,6 @@
-html, body{
-    display: inline;
-    justify-content: center;
-    position: absolute;
-    background-color: greenyellow;
+html, body
+{
+    max-width: max-content;
+    margin: auto;
+    background-color: black;
 }
